@@ -15,12 +15,15 @@ large test inputs.
 ------------------------------------------------------------------------
 
 ## 🚀 Features
+<img width="1050" height="1649" alt="Untitled diagram-2025-11-29-105740" src="https://github.com/user-attachments/assets/fddff47e-95a9-4443-bf52-95eb623f2901" />
 
 ### ✔ Serial Implementation
 
 Simple C++ implementation of Prim's algorithm.
 
 ### ✔ OpenMP Version
+<img width="1681" height="776" alt="Untitled diagram-2025-11-29-121447" src="https://github.com/user-attachments/assets/73510cbc-eb31-4b14-ae29-16e1c60b4508" />
+
 
 Uses multithreading to parallelize MST vertex selection and key updates.
 
@@ -44,6 +47,9 @@ Creates a **1000×1000 adjacency matrix** with:\
 
 Output saved in `input.csv`.
 
+<img width="1238" height="882" alt="Untitled diagram-2025-11-29-121549" src="https://github.com/user-attachments/assets/0ca401c2-5266-4b56-a768-751e94434600" />
+
+
 ------------------------------------------------------------------------
 
 ## 📂 File Structure
@@ -62,6 +68,10 @@ Output saved in `input.csv`.
     |-- README.md
 
 ------------------------------------------------------------------------
+
+<img width="2214" height="882" alt="Untitled diagram-2025-11-29-121620" src="https://github.com/user-attachments/assets/67965bd2-34bc-49e7-a90d-c8d7bb56fd15" />
+
+
 
 ## 🧪 How to Run
 
@@ -101,6 +111,11 @@ Output saved in `input.csv`.
     mpirun -np 2 ./hybrid
 
 ------------------------------------------------------------------------
+
+
+<img width="1175" height="1198" alt="Untitled diagram-2025-11-29-121651" src="https://github.com/user-attachments/assets/65fe4bbe-0d2c-49d5-8286-4a1052bf9844" />
+
+
 
 ## 📊 Performance Logs
 
